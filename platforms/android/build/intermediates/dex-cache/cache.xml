@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dylas\.android\build-cache\f7bd36c8eab4fee470997616e8121a8e158d248b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Dylas\Documents\Proyectoapp\FitUnaula\platforms\android\app\build\intermediates\pre-dexed\debug\classes_b0c121bfc3b07f9a0d1cf0199f8bf9f256f880db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dylas\.android\build-cache\a0fb2561df4c8d90ac3d5598774e568c6649c2f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Dylas\Documents\Proyectoapp\FitUnaula\platforms\android\app\build\intermediates\pre-dexed\debug\classes_dd79277768915b3cb19f553d5c176d493e7e943b.jar" />
+    </item>
+
+</items>

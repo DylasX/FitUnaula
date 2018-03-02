@@ -1,0 +1,23 @@
+<Page loaded="tab" actionBarHidden="true">
+    <StackLayout>
+        <TabView  selectedTabTextColor="#fff" androidSelectedTabHighlightColor="#FFF" tabBackgroundColor="#FF5722">
+            <TabView.items>
+                <TabViewItem title="Datos" class="titlestabs">
+                <TabViewItem.view>
+                    <Label text="Datos de la cuenta"  />
+                </TabViewItem.view>
+                </TabViewItem>
+                <TabViewItem title="Rutina" class="titlestabs">
+                <TabViewItem.view>
+                    <Label text="Rutinas proximamente" />
+                </TabViewItem.view>
+                </TabViewItem>
+                <TabViewItem title="Ajustes" class="titlestabs">
+                <TabViewItem.view>
+                    <Label text="Ajustes proximamente" />
+                </TabViewItem.view>
+                </TabViewItem>
+            </TabView.items>
+        </TabView>
+    </StackLayout>
+</Page>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dylas\\Documents\\Proyectoapp\\FitUnaula\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Dylas\\.android\\build-cache\\1cffcf5dc12d2059732ae2fc5113b71e22b6e9ee\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylas\\Documents\\Proyectoapp\\FitUnaula\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Dylas\\.android\\build-cache\\1cffcf5dc12d2059732ae2fc5113b71e22b6e9ee\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylas\\Documents\\Proyectoapp\\FitUnaula\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Dylas\\.android\\build-cache\\1cffcf5dc12d2059732ae2fc5113b71e22b6e9ee\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylas\\Documents\\Proyectoapp\\FitUnaula\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Dylas\\.android\\build-cache\\1cffcf5dc12d2059732ae2fc5113b71e22b6e9ee\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
